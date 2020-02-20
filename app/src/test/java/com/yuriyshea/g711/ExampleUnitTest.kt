@@ -1,4 +1,4 @@
-package com.xy.g711
+package com.yuriyshea.g711
 
 import org.junit.Test
 
