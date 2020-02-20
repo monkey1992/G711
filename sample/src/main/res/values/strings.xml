@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">G711</string>
+    <string name="encode_g711_u">编码G711U</string>
+    <string name="decode_g711_u">解码G711U</string>
+    <string name="encode_g711_a">编码G711A</string>
+    <string name="decode_g711_a">解码G711A</string>
+</resources>

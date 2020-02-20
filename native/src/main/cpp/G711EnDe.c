@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include "g711.h"
 
-jint Java_com_yuriyshea_g711_encodeG711u(JNIEnv *env,
+jint Java_com_yuriyshea_g711_G711Codec_encodeG711u(JNIEnv *env,
                                          jobject thiz, jbyteArray SpeechData,
                                          jbyteArray BitstreamData,
                                          jint srclen) {
@@ -20,7 +20,7 @@ jint Java_com_yuriyshea_g711_encodeG711u(JNIEnv *env,
     return dstlen;
 }
 
-jint Java_com_yuriyshea_g711_decodeG711u(JNIEnv *env,
+jint Java_com_yuriyshea_g711_G711Codec_decodeG711u(JNIEnv *env,
                                          jobject thiz, jbyteArray BitstreamData,
                                          jbyteArray SpeechData,
                                          jint srclen) {
@@ -36,7 +36,7 @@ jint Java_com_yuriyshea_g711_decodeG711u(JNIEnv *env,
     return dstlen;
 }
 
-jint Java_com_yuriyshea_g711_encodeG711a(JNIEnv *env,
+jint Java_com_yuriyshea_g711_G711Codec_encodeG711a(JNIEnv *env,
                                          jobject thiz, jbyteArray SpeechData,
                                          jbyteArray BitstreamData,
                                          jint srclen) {
@@ -52,7 +52,7 @@ jint Java_com_yuriyshea_g711_encodeG711a(JNIEnv *env,
     return dstlen;
 }
 
-jint Java_com_yuriyshea_g711_decodeG711a(JNIEnv *env,
+jint Java_com_yuriyshea_g711_G711Codec_decodeG711a(JNIEnv *env,
                                          jobject thiz, jbyteArray BitstreamData,
                                          jbyteArray SpeechData,
                                          jint srclen) {
