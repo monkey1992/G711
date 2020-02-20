@@ -1,0 +1,7 @@
+Executable : /Users/xiaoyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/debug/armeabi-v7a
+g711
+jvmArgs : 
+

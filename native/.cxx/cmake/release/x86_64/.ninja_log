@@ -1,0 +1,5 @@
+# ninja log v5
+0	98	1582194883	CMakeFiles/g711.dir/G711EnDe.c.o	fde4e20b970ffa5a
+2	101	1582194883	CMakeFiles/g711.dir/g7.cpp.o	b2becb433e058c55
+0	104	1582194883	CMakeFiles/g711.dir/g711.cpp.o	8e89b936d435adc4
+104	160	1582194883	/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/build/intermediates/cmake/release/obj/x86_64/libg711.so	fe70c8c9ce36cd46

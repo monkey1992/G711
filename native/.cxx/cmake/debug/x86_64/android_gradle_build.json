@@ -1,0 +1,55 @@
+{
+  "stringTable": {
+    "0": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/debug/x86_64",
+    "1": "--target=x86_64-none-linux-android --gcc-toolchain=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot -Dg711_EXPORTS -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=x86_64-none-linux-android --gcc-toolchain=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/x86_64-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot -Dg711_EXPORTS -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/x86_64-linux-android -D__ANDROID_API__=21 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/xiaoyu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/xiaoyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/debug/x86_64\" clean"
+  ],
+  "buildTargetsCommand": "/Users/xiaoyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/debug/x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "g711-Debug-x86_64": {
+      "buildCommand": "/Users/xiaoyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/debug/x86_64\" g711",
+      "buildType": "debug",
+      "toolchain": "2113574376",
+      "abi": "x86_64",
+      "artifactName": "g711",
+      "files": [
+        {
+          "src": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/g711.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/g7.cpp",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/G711EnDe.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/build/intermediates/cmake/debug/obj/x86_64/libg711.so"
+    }
+  },
+  "toolchains": {
+    "2113574376": {
+      "cCompilerExecutable": "/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

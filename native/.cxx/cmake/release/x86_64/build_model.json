@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711",
+      "sdkFolder": "/Users/xiaoyu/Library/Android/sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/build/intermediates",
+      "gradleModulePathName": ":native",
+      "moduleRootFolder": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native",
+      "makeFile": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/.cxx",
+      "cxxFolder": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx",
+      "ndkFolder": "/Users/xiaoyu/Library/Android/sdk/ndk-bundle",
+      "ndkVersion": "17.1.4828580",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      ""
+    ],
+    "variantName": "release",
+    "soFolder": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/build/intermediates/cmake/release/lib",
+    "objFolder": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/build/intermediates/cmake/release/obj",
+    "jsonFolder": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/release",
+    "gradleBuildOutputFolder": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cxx/release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/release/x86_64",
+  "jsonFile": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/release/x86_64/android_gradle_build.json",
+  "gradleBuildOutputFolder": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cxx/release/x86_64",
+  "objFolder": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/build/intermediates/cmake/release/obj/x86_64",
+  "buildCommandFile": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/release/x86_64/build_command.txt",
+  "buildOutputFile": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/release/x86_64/build_output.txt",
+  "modelOutputFile": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/release/x86_64/build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cxx/release/x86_64/CMakeLists.txt",
+    "toolchainWrapperFile": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cxx/release/x86_64/android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cxx/release/x86_64/build_generation_state.json",
+    "cacheKeyFile": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cxx/release/x86_64/compiler_cache_key.json",
+    "compilerCacheUseFile": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cxx/release/x86_64/compiler_cache_use.json",
+    "compilerCacheWriteFile": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cxx/release/x86_64/compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cxx/release/x86_64/compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/release/x86_64/json_generation_record.json",
+  "compileCommandsJsonFile": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/release/x86_64/compile_commands.json"
+}

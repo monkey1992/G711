@@ -1,0 +1,18 @@
+{
+  "buildFiles": [
+    "/Users/xiaoyu/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake",
+    "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/xiaoyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/xiaoyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "g711-Debug-x86": {
+      "artifactName": "g711",
+      "buildCommand": "/Users/xiaoyu/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/debug/x86\" g711",
+      "abi": "x86",
+      "output": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/build/intermediates/cmake/debug/obj/x86/libg711.so"
+    }
+  }
+}

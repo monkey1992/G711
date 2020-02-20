@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot -Dg711_EXPORTS  -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -Os -DNDEBUG  -s -fPIC   -o CMakeFiles/g711.dir/G711EnDe.c.o   -c /Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/G711EnDe.c",
+  "file": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/G711EnDe.c"
+},
+
+{
+  "directory": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot  -Dg711_EXPORTS -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -Os -DNDEBUG  -s -fPIC   -o CMakeFiles/g711.dir/g711.cpp.o -c /Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/g711.cpp",
+  "file": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/g711.cpp"
+},
+
+{
+  "directory": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/release/armeabi-v7a",
+  "command": "/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi --gcc-toolchain=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot  -Dg711_EXPORTS -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/arm-linux-androideabi -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -Os -DNDEBUG  -s -fPIC   -o CMakeFiles/g711.dir/g7.cpp.o -c /Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/g7.cpp",
+  "file": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/g7.cpp"
+}
+]

@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/release/x86",
+  "command": "/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android --gcc-toolchain=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot -Dg711_EXPORTS  -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -s -fPIC   -o CMakeFiles/g711.dir/G711EnDe.c.o   -c /Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/G711EnDe.c",
+  "file": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/G711EnDe.c"
+},
+
+{
+  "directory": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/release/x86",
+  "command": "/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android --gcc-toolchain=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot  -Dg711_EXPORTS -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O2 -DNDEBUG  -s -fPIC   -o CMakeFiles/g711.dir/g711.cpp.o -c /Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/g711.cpp",
+  "file": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/g711.cpp"
+},
+
+{
+  "directory": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/.cxx/cmake/release/x86",
+  "command": "/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android --gcc-toolchain=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/darwin-x86_64 --sysroot=/Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot  -Dg711_EXPORTS -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++/include -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sources/android/support/include -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sources/cxx-stl/llvm-libc++abi/include  -isystem /Users/xiaoyu/Library/Android/sdk/ndk-bundle/sysroot/usr/include/i686-linux-android -D__ANDROID_API__=16 -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11  -O2 -DNDEBUG  -s -fPIC   -o CMakeFiles/g711.dir/g7.cpp.o -c /Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/g7.cpp",
+  "file": "/Users/xiaoyu/AndroidStudioProjects/MyZone/G711/native/src/main/cpp/g7.cpp"
+}
+]
